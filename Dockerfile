@@ -9,9 +9,9 @@ WORKDIR /
 
 # Установка зависимостей
 COPY package*.json ./
-#RUN npm install
+RUN npm install
 # Для использования в продакшне
-RUN npm install --production
+# RUN npm install --production
 
 # Копирование файлов проекта
 COPY . .
