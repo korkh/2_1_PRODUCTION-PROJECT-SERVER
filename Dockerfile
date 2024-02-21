@@ -1,5 +1,5 @@
 # Use the node image with the specified version
-FROM node:10
+FROM node:20
 
 # Папка приложения
 # ARG APP_DIR=app
