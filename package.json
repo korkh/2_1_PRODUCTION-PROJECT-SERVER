@@ -1,10 +1,10 @@
 {
-  "name": "2_1_production-project-server",
+  "name": "production-project-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node ./index.js"
+    "start": "node ./app/index.js"
   },
   "keywords": [],
   "author": "",
