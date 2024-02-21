@@ -1,6 +1,7 @@
 const fs = require("fs");
 const jsonServer = require("json-server");
 const path = require("path");
+const cors = require("cors")
 
 const server = jsonServer.create();
 
