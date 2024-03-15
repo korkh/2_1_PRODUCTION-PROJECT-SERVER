@@ -9,7 +9,7 @@ WORKDIR /
 
 # Установка зависимостей
 COPY package*.json ./
-RUN npm install 
+RUN npm install --force
 # Для использования в продакшне
 # RUN npm install --production
 
