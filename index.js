@@ -1,24 +1,30 @@
-const fs = require("fs");
-const jsonServer = require("json-server");
-const path = require("path");
-const cors = require("cors")
+import fs from "fs";
+import jsonServer from "json-server";
+import { fileURLToPath } from "url";
+import { join as joinPath, dirname } from "path";
 
 const server = jsonServer.create();
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+const router = jsonServer.router(joinPath(__dirname, "db.json"));
 
-// eslint-disable-next-line no-undef
-const router = jsonServer.router(path.resolve(__dirname, "db.json"));
-
-server.use(cors());
 server.use(jsonServer.defaults({}));
 server.use(jsonServer.bodyParser);
+
+// Нужно для небольшой задержки, чтобы запрос проходил не мгновенно, имитация реального апи
+server.use(async (req, res, next) => {
+  await new Promise((res) => {
+    setTimeout(res, 800);
+  });
+  next();
+});
 
 // Эндпоинт для логина
 server.post("/login", (req, res) => {
   try {
     const { username, password } = req.body;
     const db = JSON.parse(
-      // eslint-disable-next-line no-undef
-      fs.readFileSync(path.resolve(__dirname, "db.json"), "UTF-8")
+      fs.readFileSync(joinPath(__dirname, "db.json"), "UTF-8")
     );
     const { users = [] } = db;
 
@@ -39,7 +45,6 @@ server.post("/login", (req, res) => {
 });
 
 // проверяем, авторизован ли пользователь
-// eslint-disable-next-line
 server.use((req, res, next) => {
   if (!req.headers.authorization) {
     return res.status(403).json({ message: "AUTH ERROR" });
