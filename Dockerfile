@@ -20,4 +20,4 @@ COPY . .
 EXPOSE 8000
 
 # Запуск проекта
-CMD ["npm", "start"]
+CMD ["node", "index.mjs"]
