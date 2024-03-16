@@ -1,11 +1,11 @@
 # Use the node image with the specified version
-FROM node:16
+FROM node:20
 
 # Папка приложения
-# ARG APP_DIR=app
-# RUN mkdir -p ${APP_DIR}
-# WORKDIR ${APP_DIR}
-WORKDIR /
+ARG APP_DIR=app
+RUN mkdir -p ${APP_DIR}
+WORKDIR ${APP_DIR}
+# WORKDIR /
 
 # Установка зависимостей
 COPY ["package.json", "package-lock.json*", "./"]
