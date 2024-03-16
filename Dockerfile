@@ -8,7 +8,7 @@ WORKDIR ${APP_DIR}
 # WORKDIR /
 
 # Установка зависимостей
-COPY ["package.json", "package-lock.json*", "./"]
+COPY package.json ./
 RUN npm install --production
 # Для использования в продакшне
 # RUN npm install --production
