@@ -352,6 +352,399 @@
       ]
     },
     {
+      "id": "6",
+      "title": "The Role of Blockchain in Supply Chain Management",
+      "subtitle": "Harnessing blockchain technology for enhanced traceability and transparency",
+      "img": "https://th.bing.com/th/id/R.0edaa517e739f7893f9d1be9c1269ac5?rik=3sJopa1YTvuNIQ&pid=ImgRaw&r=0",
+      "views": 310,
+      "createdAt": "02.08.2023",
+      "userId": "3",
+      "type": ["IT"],
+      "blocks": [
+        {
+          "id": "1",
+          "type": "TEXT",
+          "title": "Introduction to Blockchain",
+          "paragraphs": [
+            "Blockchain is a distributed ledger technology that enables secure and transparent recording of transactions across multiple parties in a decentralized network. It offers immutable records, cryptographic security, and consensus mechanisms, making it ideal for applications requiring trust and transparency.",
+            "In the context of supply chain management, blockchain can revolutionize the way goods are tracked, verified, and authenticated throughout the entire supply chain, from production to distribution."
+          ]
+        },
+        {
+          "id": "2",
+          "type": "TEXT",
+          "title": "Benefits of Blockchain in Supply Chain",
+          "paragraphs": [
+            "Blockchain technology can address various challenges in supply chain management, including counterfeit products, inefficient processes, and lack of transparency. By providing a tamper-proof record of transactions, blockchain enhances traceability, reduces fraud, and improves overall efficiency."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "The Power of Data Analytics in Healthcare",
+      "subtitle": "Harnessing data for improved patient outcomes",
+      "img": "https://th.bing.com/th/id/R.508b8aa064849e71c26c754d3bceb01f?rik=kC2buewAzoeg1Q&pid=ImgRaw&r=0",
+      "views": 420,
+      "createdAt": "18.04.2023",
+      "userId": "1",
+      "type": ["IT"],
+      "blocks": [
+        {
+          "id": "1",
+          "type": "TEXT",
+          "title": "Introduction to Healthcare Analytics",
+          "paragraphs": [
+            "Data analytics plays a crucial role in healthcare by leveraging data insights to improve patient care, optimize operations, and reduce costs. With the proliferation of electronic health records (EHRs), wearable devices, and IoT sensors, healthcare organizations have access to vast amounts of data that can be analyzed to drive informed decision-making and personalized treatments."
+          ]
+        },
+        {
+          "id": "2",
+          "type": "TEXT",
+          "title": "Applications of Data Analytics in Healthcare",
+          "paragraphs": [
+            "Data analytics applications in healthcare include predictive analytics for disease prevention, clinical decision support systems for diagnosis and treatment planning, population health management for identifying at-risk patients, and operational analytics for resource optimization and cost containment."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "The Evolution of Cybersecurity Threats",
+      "subtitle": "Navigating the ever-changing landscape of cyber threats",
+      "img": "https://th.bing.com/th/id/OIP.2Yhp9Dbi0cQLmJPgPft88QHaD4?rs=1&pid=ImgDetMain",
+      "views": 380,
+      "createdAt": "10.10.2022",
+      "userId": "2",
+      "type": ["IT"],
+      "blocks": [
+        {
+          "id": "1",
+          "type": "TEXT",
+          "title": "Introduction to Cybersecurity",
+          "paragraphs": [
+            "Cybersecurity is the practice of protecting computer systems, networks, and data from malicious attacks, theft, and unauthorized access. With the increasing reliance on digital technologies and interconnected systems, cybersecurity has become a critical concern for individuals, businesses, and governments worldwide."
+          ]
+        },
+        {
+          "id": "2",
+          "type": "TEXT",
+          "title": "Emerging Threats and Trends",
+          "paragraphs": [
+            "As technology evolves, so do cybersecurity threats. From ransomware and phishing attacks to AI-driven malware and supply chain vulnerabilities, cyber threats continue to evolve in sophistication and complexity. Organizations must adopt proactive security measures and stay abreast of emerging threats to mitigate risks effectively."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "The Future of Space Exploration",
+      "subtitle": "Exploring new frontiers beyond Earth",
+      "img": "https://th.bing.com/th/id/R.e5504daec5e23540113bfde6b1d4d0ff?rik=FjX3yf2CfPRTZg&riu=http%3a%2f%2fwww.spaceopedia.com%2fwp-content%2fuploads%2f2017%2f07%2fFuture-of-Exploration.jpg&ehk=IuZ3x6mgABbXzsGuDCPmaCNHa5YDG%2b%2fc30P%2b8tP3ZtM%3d&risl=&pid=ImgRaw&r=0",
+      "views": 610,
+      "createdAt": "05.06.2024",
+      "userId": "3",
+      "type": ["SCIENCE"],
+      "blocks": [
+        {
+          "id": "1",
+          "type": "TEXT",
+          "title": "The Age of Space Exploration",
+          "paragraphs": [
+            "Since the dawn of the space age, humanity has made remarkable strides in exploring the cosmos, from landing on the moon to sending probes to distant planets. With advances in space technology and international collaboration, the future of space exploration holds exciting possibilities for discovering new worlds, understanding the universe, and expanding human presence beyond Earth."
+          ]
+        },
+        {
+          "id": "2",
+          "type": "TEXT",
+          "title": "Key Technologies and Missions",
+          "paragraphs": [
+            "Space exploration relies on a variety of technologies, including rockets, satellites, rovers, and space telescopes. Future missions aim to explore Mars, establish lunar colonies, mine asteroids, and search for signs of extraterrestrial life. These endeavors hold promise for advancing scientific knowledge, inspiring future generations, and shaping the destiny of humanity."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "The Impact of Climate Change on Global Economy",
+      "subtitle": "Assessing the economic risks and opportunities of climate change",
+      "img": "https://th.bing.com/th/id/R.c74def377301ad99d6fbc4ecb98de1a1?rik=ztyw7ZAN5ArvWw&riu=http%3a%2f%2fwww.exeter.ac.uk%2fmedia%2funiversityofexeter%2finternationalsummerschool%2fresponsiveimages%2fplanet_B-1046x699.jpg&ehk=7BdRtfjLMYctFKZMIibQJxvUYAn1XFrvw%2bSpA%2bfpoqY%3d&risl=&pid=ImgRaw&r=0",
+      "views": 480,
+      "createdAt": "12.03.2023",
+      "userId": "1",
+      "type": ["ECONOMICS"],
+      "blocks": [
+        {
+          "id": "1",
+          "type": "TEXT",
+          "title": "The Climate-Economy Nexus",
+          "paragraphs": [
+            "Climate change poses significant risks to the global economy, including extreme weather events, sea-level rise, resource scarcity, and geopolitical instability. These challenges have profound implications for industries, supply chains, financial markets, and socio-economic development."
+          ]
+        },
+        {
+          "id": "2",
+          "type": "TEXT",
+          "title": "Opportunities for Climate Resilience",
+          "paragraphs": [
+            "Addressing climate change presents opportunities for innovation, green growth, and sustainable development. Investments in renewable energy, clean technologies, and climate adaptation measures can create jobs, enhance competitiveness, and build resilience against future shocks."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "The Future of Virtual Reality in Education",
+      "subtitle": "Transforming the learning experience with VR technology",
+      "img": "https://th.bing.com/th/id/R.8c108d53230019a636ef64c7720fe12c?rik=joA%2f31kNdo3HRw&pid=ImgRaw&r=0",
+      "views": 380,
+      "createdAt": "25.08.2024",
+      "userId": "2",
+      "type": ["IT"],
+      "blocks": [
+        {
+          "id": "1",
+          "type": "TEXT",
+          "title": "Introduction to VR in Education",
+          "paragraphs": [
+            "Virtual Reality (VR) technology holds immense potential to revolutionize education by creating immersive and interactive learning experiences. From virtual field trips to historical simulations, VR enables students to engage with course material in new and exciting ways."
+          ]
+        },
+        {
+          "id": "2",
+          "type": "TEXT",
+          "title": "Applications of VR in Education",
+          "paragraphs": [
+            "VR can be used across various educational settings, including classrooms, museums, and training programs. It enhances student engagement, improves knowledge retention, and fosters creativity and critical thinking skills."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "The Promise of Gene Editing in Medicine",
+      "subtitle": "Unlocking the potential of CRISPR technology",
+      "img": "https://th.bing.com/th/id/OIP.qoDsj-2cRJ8gcCMMfdsk9gHaE8?rs=1&pid=ImgDetMain",
+      "views": 520,
+      "createdAt": "17.11.2023",
+      "userId": "3",
+      "type": ["SCIENCE"],
+      "blocks": [
+        {
+          "id": "1",
+          "type": "TEXT",
+          "title": "Introduction to Gene Editing",
+          "paragraphs": [
+            "Gene editing technologies such as CRISPR-Cas9 offer unprecedented precision and efficiency in modifying genetic sequences. These tools hold great promise for treating genetic disorders, curing diseases, and advancing personalized medicine."
+          ]
+        },
+        {
+          "id": "2",
+          "type": "TEXT",
+          "title": "Applications of Gene Editing in Medicine",
+          "paragraphs": [
+            "Gene editing has the potential to revolutionize healthcare by enabling targeted therapies, gene therapies, and regenerative medicine approaches. Researchers are exploring novel applications of gene editing in treating cancer, genetic disorders, and infectious diseases."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "The Impact of IoT on Smart Cities",
+      "subtitle": "Creating connected and sustainable urban environments",
+      "img": "https://th.bing.com/th/id/R.28aad37e84c50c580b564a7f9dab7cf8?rik=7HblPU5KGNDiQw&pid=ImgRaw&r=0",
+      "views": 610,
+      "createdAt": "29.07.2023",
+      "userId": "1",
+      "type": ["IT"],
+      "blocks": [
+        {
+          "id": "1",
+          "type": "TEXT",
+          "title": "Introduction to IoT and Smart Cities",
+          "paragraphs": [
+            "The Internet of Things (IoT) is revolutionizing urban development by connecting devices, sensors, and infrastructure to create smart, data-driven cities. From smart transportation systems to intelligent energy grids, IoT technology enhances efficiency, sustainability, and quality of life."
+          ]
+        },
+        {
+          "id": "2",
+          "type": "TEXT",
+          "title": "Benefits of IoT in Smart Cities",
+          "paragraphs": [
+            "IoT solutions enable cities to optimize resource utilization, reduce traffic congestion, improve public safety, and enhance environmental sustainability. By harnessing real-time data and analytics, smart cities can address urban challenges and create more livable and resilient communities."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Advancements in Quantum Cryptography",
+      "subtitle": "Securing communications with quantum-resistant encryption",
+      "img": "https://th.bing.com/th/id/R.5f983538c9d24db47d593418d4ae7dbd?rik=6V20MUkTAyLOOw&pid=ImgRaw&r=0",
+      "views": 420,
+      "createdAt": "14.02.2024",
+      "userId": "2",
+      "type": ["IT"],
+      "blocks": [
+        {
+          "id": "1",
+          "type": "TEXT",
+          "title": "Introduction to Quantum Cryptography",
+          "paragraphs": [
+            "Quantum cryptography leverages the principles of quantum mechanics to secure communication channels against eavesdropping and data tampering. Unlike classical encryption methods, which rely on mathematical complexity, quantum cryptography offers unconditional security based on the laws of physics."
+          ]
+        },
+        {
+          "id": "2",
+          "type": "TEXT",
+          "title": "Challenges and Opportunities",
+          "paragraphs": [
+            "While quantum cryptography holds promise for enhancing cybersecurity, it also presents technical challenges such as quantum key distribution and quantum network scalability. Researchers are exploring innovative solutions to overcome these barriers and realize the full potential of quantum-secure communication."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "The Role of Artificial Intelligence in Finance",
+      "subtitle": "Transforming the financial industry with AI-driven solutions",
+      "img": "https://th.bing.com/th/id/R.3b0231c6552ed6974cbf80fb2943d939?rik=l4piCkF5ZGLm3A&pid=ImgRaw&r=0",
+      "views": 550,
+      "createdAt": "07.06.2023",
+      "userId": "3",
+      "type": ["IT"],
+      "blocks": [
+        {
+          "id": "1",
+          "type": "TEXT",
+          "title": "Introduction to AI in Finance",
+          "paragraphs": [
+            "Artificial Intelligence (AI) is revolutionizing the financial industry by automating tasks, analyzing data, and enhancing decision-making processes. From algorithmic trading to fraud detection, AI-powered solutions offer unprecedented efficiency, accuracy, and scalability."
+          ]
+        },
+        {
+          "id": "2",
+          "type": "TEXT",
+          "title": "Applications of AI in Finance",
+          "paragraphs": [
+            "AI technologies are applied across various domains in finance, including banking, insurance, and investment management. They enable predictive analytics, risk assessment, customer service automation, and personalized financial advice, driving innovation and competitiveness in the sector."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "title": "The Future of Renewable Energy",
+      "subtitle": "Transitioning to a sustainable energy ecosystem",
+      "img": "https://www.hiveenergy.co.uk/wp-content/uploads/2022/11/The-future-of-renewable-energy.jpg",
+      "views": 510,
+      "createdAt": "19.09.2023",
+      "userId": "1",
+      "type": ["SCIENCE"],
+      "blocks": [
+        {
+          "id": "1",
+          "type": "TEXT",
+          "title": "The Importance of Renewable Energy",
+          "paragraphs": [
+            "Renewable energy sources such as solar, wind, and hydroelectric power play a crucial role in mitigating climate change, reducing greenhouse gas emissions, and promoting energy independence. As the world transitions towards a low-carbon economy, renewable energy technologies are becoming increasingly vital for meeting global energy demand sustainably."
+          ]
+        },
+        {
+          "id": "2",
+          "type": "TEXT",
+          "title": "Emerging Trends and Innovations",
+          "paragraphs": [
+            "Advancements in renewable energy technologies, energy storage systems, and grid integration are driving the growth of renewable energy worldwide. From floating solar farms to next-generation wind turbines, innovative solutions are expanding the reach and efficiency of renewable energy sources, paving the way for a cleaner and more resilient energy future."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "title": "The Ethics of Artificial Intelligence",
+      "subtitle": "Navigating the moral dilemmas of AI development and deployment",
+      "img": "https://th.bing.com/th/id/R.6f45c0626a4286419364dd52c935838e?rik=WB1Dc2VNJxqzuQ&pid=ImgRaw&r=0",
+      "views": 440,
+      "createdAt": "23.04.2024",
+      "userId": "2",
+      "type": ["IT"],
+      "blocks": [
+        {
+          "id": "1",
+          "type": "TEXT",
+          "title": "Introduction to AI Ethics",
+          "paragraphs": [
+            "The rapid advancement of Artificial Intelligence (AI) raises profound ethical questions regarding privacy, bias, accountability, and human dignity. As AI systems become increasingly integrated into society, it is essential to address these ethical challenges to ensure that AI technologies serve the common good and respect fundamental human values."
+          ]
+        },
+        {
+          "id": "2",
+          "type": "TEXT",
+          "title": "Ethical Considerations in AI Development",
+          "paragraphs": [
+            "Ethical AI development requires transparency, fairness, and inclusivity throughout the design, implementation, and deployment phases. Stakeholders must collaborate to establish ethical guidelines, regulatory frameworks, and governance mechanisms that promote responsible AI innovation and mitigate potential risks."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "The Evolution of Robotics in Industry",
+      "subtitle": "Transforming manufacturing and automation with robotics",
+      "img": "https://cdn3.vectorstock.com/i/1000x1000/05/22/modern-androids-and-humanoids-evolution-of-robots-vector-23880522.jpg",
+      "views": 590,
+      "createdAt": "11.12.2023",
+      "userId": "3",
+      "type": ["IT"],
+      "blocks": [
+        {
+          "id": "1",
+          "type": "TEXT",
+          "title": "Introduction to Industrial Robotics",
+          "paragraphs": [
+            "Industrial robotics revolutionized manufacturing by automating repetitive tasks, increasing productivity, and improving product quality. From assembly line robots to collaborative robots (cobots), advancements in robotics technology are reshaping the future of industry and driving the Fourth Industrial Revolution."
+          ]
+        },
+        {
+          "id": "2",
+          "type": "TEXT",
+          "title": "Applications of Robotics in Industry",
+          "paragraphs": [
+            "Robotics technologies are deployed across various industrial sectors, including automotive, electronics, aerospace, and logistics. They perform tasks such as welding, painting, inspection, and material handling, enabling companies to streamline operations, reduce costs, and enhance competitiveness in the global market."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "title": "The Impact of Biotechnology on Agriculture",
+      "subtitle": "Enhancing crop productivity and sustainability with biotech solutions",
+      "img": "https://4-hontario.ca/wp-content/uploads/2020/09/Intro-to-Agricultural-Biotechnology_Main-Image-2048x1364.jpeg",
+      "views": 450,
+      "createdAt": "05.10.2024",
+      "userId": "1",
+      "type": ["SCIENCE"],
+      "blocks": [
+        {
+          "id": "1",
+          "type": "TEXT",
+          "title": "Introduction to Agricultural Biotechnology",
+          "paragraphs": [
+            "Agricultural biotechnology encompasses genetic engineering, molecular breeding, and other biotech tools to improve crop traits, enhance resilience to pests and diseases, and increase agricultural productivity. Biotech solutions offer sustainable and environmentally friendly alternatives to conventional farming practices, contributing to food security and rural development."
+          ]
+        },
+        {
+          "id": "2",
+          "type": "TEXT",
+          "title": "Benefits of Biotechnology in Agriculture",
+          "paragraphs": [
+            "Biotechnology innovations have led to the development of genetically modified (GM) crops, biopesticides, and precision farming techniques, among others. These technologies enable farmers to optimize resource use, reduce environmental impact, and produce higher yields, ensuring a more resilient and prosperous agricultural sector."
+          ]
+        }
+      ]
+    },
+    {
       "id": "20",
       "title": "The Rise of Telemedicine",
       "subtitle": "Transforming healthcare delivery with remote medical services",
