@@ -2,14 +2,14 @@
 FROM node:20
 
 # Папка приложения
-ARG APP_DIR=app
-RUN mkdir -p ${APP_DIR}
-WORKDIR ${APP_DIR}
-# WORKDIR /
+# ARG APP_DIR=app
+# RUN mkdir -p ${APP_DIR}
+# WORKDIR ${APP_DIR}
+WORKDIR /
 
 # Установка зависимостей
 COPY package.json ./
-RUN npm install --production
+RUN npm install
 # Для использования в продакшне
 # RUN npm install --production
 
